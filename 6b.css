@@ -1,0 +1,15 @@
+.model {
+    font-size: 25px; 
+    text-align: center;
+    font-weight: bold;
+    font-family: montserpushrat;
+    margin-bottom: 5px;
+}
+.order-page {
+   margin-top: 0px;
+   text-align: center;
+}
+.delivery {
+    margin-top: 0px;
+    text-decoration: underline;
+}
